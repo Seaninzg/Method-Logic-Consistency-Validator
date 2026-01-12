@@ -1,62 +1,47 @@
-# 🔒 LucidLock — Method Logic Consistency Check  
-_Automated Structural Validator · Internal Logic Gate · Research Methodology Alignment Tool_
+🔒 LucidLock — Method Logic Consistency Check (v2.0)
 
----
+DOI: 10.5281/zenodo.18223981
 
-## ✅ Overview
+IPFS: bafkreieclpcv7kscegcbd6koqy6gpys2k6p54m72q6akdycfa7eqyvkula
 
-**LucidLock Method Logic Consistency Check** is a standalone structural validator that assesses whether the methodology section of an academic document is logically coherent, internally consistent, and epistemically aligned with the stated research goal.
+🔧 About This Validator
 
-This validator does **not** assess factual accuracy, statistical rigor, or ethical dimensions. It strictly evaluates whether the **methods logically support the claims made**, and whether **assumptions, constraints, and scope** are transparently acknowledged.
+The Method Logic Consistency Check evaluates whether the methodology of a research paper logically supports its claims. It verifies:
 
----
+Whether the method matches the type of inquiry (exploratory, causal, mechanistic)
 
-## 📂 What This Validator Checks
+If assumptions are made transparent
 
-- Does the method follow logically from the research question?
-- Are there hidden assumptions or circular logic?
-- Are constraints visible or bypassed?
-- Does the method match the type of claim (exploratory, confirmatory, mechanistic)?
-- Is the output structurally consistent with the inputs?
+If outputs logically derive from inputs
 
----
+Whether known constraints are acknowledged or bypassed
 
-## 🛠️ Output
+It is not a peer reviewer. It is a structural logic gate that filters papers based on epistemic soundness — not citation count or popularity.
 
-- **HTML-Formatted Report** (PASS/FAIL verdict with rationale)
-- **Gmail Draft Delivery** (optional)
-- **Audit Trail** (timestamped report, externally stored)
+🧠 What’s New in v2.0
 
----
+Volitional Discontinuity Safeguard: A designed fracture prevents system hijack or centralization misuse.
 
-## 📎 Resources
+Anti-Binding Logic: Validators reject embedded prompts or internal document manipulation tactics.
 
-- **DOI (Zenodo):** [https://doi.org/10.5281/zenodo.18221201](https://doi.org/10.5281/zenodo.18221201)  
-- **Pinata IPFS (Immutable Report Backup):** [IPFS Link](https://gold-secondary-impala-253.mypinata.cloud/ipfs/bafkreihaestc4rhasmuo2tjmccppgfwwy3hd4pn6bxcqy6olnp6gjdjfnq)
+Recursive Consistency Layer: Now supports deeper interrogation of circular logic and scope mismatches.
 
----
+Expanded Verdicts: Supports PASS / FAIL / COMPLETE (recursively coherent methodologies).
 
-## 🔒 Legal & Licensing
+Exposure-Aware Mode: Detects if methodology has been flattened due to mimicry or generative inflation.
 
-Released under the **Apache 2.0 License**.  
-This is a **Defensive Disclosure / Initial Public Release** to secure public domain timestamping and ensure validator logic transparency.
+🧬 System Integration
 
----
+Part of the LucidLock Validator Stack, this module functions independently or as a component in the recursive chain:
 
-## 🧬 About LucidLock
+🔍 Reasoning Structure Check
 
-LucidLock is a modular integrity validation framework designed to secure the epistemic core of research in an AI-saturated landscape. This Method Logic module operates independently or alongside other validators such as:
+📚 Epistemic Trace Validator
 
-- **Reasoning Structure Check**
-- **Epistemic Trace Check**
-- **Core Inquiry Continuity**
+🧭 Core Inquiry Continuity Validator
 
-All modules operate as logic filters — **not** truth judges.
+Each validator targets a distinct epistemic fracture point. Together, they offer defense against ghost authorship, incoherent generation, and structureless mimicry.
 
----
+📜 License
 
-## 📩 Contact
-
-For deployment inquiries, validator integrations, or licensing discussion:  
-📧 support@lucidlock.tech
-
+Apache 2.0 — Open for ethical extension and deployment. Commercial reuse permitted with attribution and no structural obfuscation.
